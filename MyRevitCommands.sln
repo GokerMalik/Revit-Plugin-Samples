@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitCommands", "MyRevitCommands\MyRevitCommands.csproj", "{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Debug|x64.ActiveCfg = Debug|x64
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Debug|x64.Build.0 = Debug|x64
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Release|x64.ActiveCfg = Release|x64
+		{9869C213-CC36-4BC3-A81A-A88FB9C24C6B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609F0649-E2ED-4D58-96C1-62A2BF385347}
+	EndGlobalSection
+EndGlobal

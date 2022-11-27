@@ -1,0 +1,7 @@
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\obj\x64\Debug\MyRevitCommands.csproj.AssemblyReference.cache
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\obj\x64\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\bin\x64\Debug\MyRevitCommands.addin
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\bin\x64\Debug\MyRevitCommands.dll
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\bin\x64\Debug\MyRevitCommands.pdb
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\obj\x64\Debug\MyRevitCommands.dll
+C:\Users\altar\Desktop\Ex_Files_Revit_Creating_C_Sharp_Plugins\Exercise Files\05_06\Start\MyRevitCommands\MyRevitCommands\obj\x64\Debug\MyRevitCommands.pdb
